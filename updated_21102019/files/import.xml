@@ -1,0 +1,29 @@
+<Tables>
+	<Table>
+		<TableName>DYNA_COMENZI_CUSTOM</TableName>
+		<TableStructure>
+			<Column1>
+				<ColumnName>ID</ColumnName>
+				<ColumnType>numeric</ColumnType>
+				<Length>18</Length>
+				<Required>true</Required>
+				<PrimaryKey>true</PrimaryKey>
+			</Column1>
+			<Column2>
+				<ColumnName>ID_DOCUMENT</ColumnName>
+				<ColumnType>numeric</ColumnType>
+				<Length>18</Length>
+				<Required>true</Required>
+			</Column2>
+				
+			<Column3>
+				<ColumnName>ROWID</ColumnName>
+				<ColumnType>varchar</ColumnType>
+				<Length>36</Length>
+				<Required>true</Required>
+			</Column3>
+			
+		</TableStructure>
+		<TableData />
+	</Table>
+</Tables>
